@@ -17,7 +17,6 @@ Displays extra columns (Alternative Text, Caption, Description, Permalink and Fi
 3. Goto the Media Library page to see the new columns
 
 == Frequently Asked Questions ==
-== Frequently Asked Questions ==
 
 = How do I use this plugin? =
 Simply activate it and enjoy new columns in your media library
