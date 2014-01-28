@@ -13,7 +13,7 @@ Displays extra columns (Alternative Text, Caption, Description, Permalink and Fi
 
 == Installation ==
 1. Upload the plugin folder to your `/wp-content/plugins/` folder
-2. Activate the plugin through the \'Plugins\' menu in WordPress
+2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Goto the Media Library page to see the new columns
 
 == Frequently Asked Questions ==
