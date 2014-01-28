@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Better Media Library Fields
-Description: Displays extra fields (ALT, Caption, Description, Href and Src fields) in the media library view. Enable columns under the <a href="http://codex.wordpress.org/Administration_Screens#Screen_Options">Screen Options</a> dropdown.
+Description: Displays extra columns (Alternative Text, Caption, Description, Permalink and File URL) in the media library view. You can choose to hide or show these new columns under the <a href="http://codex.wordpress.org/Administration_Screens#Screen_Options">Screen Options</a> dropdown.
 Version: 1.0.0
 Author: Adam W. Warner, Brad Vincent
 Author URI: http://fooplugins.com
