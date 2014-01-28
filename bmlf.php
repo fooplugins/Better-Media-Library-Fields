@@ -3,9 +3,9 @@
 Plugin Name: Better Media Library Fields
 Description: Displays extra fields (ALT, Caption, Description, Href and Src fields) in the media library view. Enable columns under the <a href="http://codex.wordpress.org/Administration_Screens#Screen_Options">Screen Options</a> dropdown.
 Version: 1.0.0
-Author: awarner20, bradvin
-Author URI: http://adamwwarner.com
-Plugin URI: http://fooplugins.com/
+Author: Adam W. Warner, Brad Vincent
+Author URI: http://fooplugins.com
+Plugin URI: https://github.com/fooplugins/Better-Media-Library-Fields
 License: GPLv2 or later
 
 COPYRIGHT 2014 Adam W. Warner
@@ -53,11 +53,11 @@ function bmlf_field_input($column) {
 
 function bmlf_display_column($columns) {
 	// Register the columns to display
-	$columns['bmlf-column-alt']     = __( 'Alt', 'bmlf' );
-	$columns['bmlf-column-caption'] = __( 'Caption', 'bmlf' );
-	$columns['bmlf-column-desc']    = __( 'Desc', 'bmlf' );
-	$columns['bmlf-column-href']    = __( 'Href', 'bmlf' );
-	$columns['bmlf-column-src']     = __( 'Src', 'bmlf' );
+	$columns['bmlf-column-alt']     = __( 'Alternative Text' );
+	$columns['bmlf-column-caption'] = __( 'Caption' );
+	$columns['bmlf-column-desc']    = __( 'Description' );
+	$columns['bmlf-column-href']    = __( 'Permalink' );
+	$columns['bmlf-column-src']     = __( 'File URL' );
 
 	return $columns;
 }
