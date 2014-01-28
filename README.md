@@ -1,14 +1,23 @@
 Better Media Library Fields
 ===========================
 
+Displays extra columns (Alternative Text, Caption, Description, Permalink and File URL) in the media library view. You can choose to hide or show these new columns under the Screen Options dropdown.
+
+---
+
 Contributors: awarner20,bradvin
+
 Tags: media,media library,image alt,image caption
+
 Requires at least: 3.8
+
 Tested up to: 3.8.1
+
 Stable tag: trunk
+
 License: GPLv2 or later
 
-Displays extra columns (Alternative Text, Caption, Description, Permalink and File URL) in the media library view. You can choose to hide or show these new columns under the Screen Options dropdown.
+
 
 ##Installation##
 
