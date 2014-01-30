@@ -9,7 +9,9 @@ License: GPLv2 or later
 Displays extra columns (Alternative Text, Caption, Description, Permalink and File URL) in the media library view
 
 == Description ==
-Displays extra columns (Alternative Text, Caption, Description, Permalink and File URL) in the media library view. You can choose to hide or show these new columns under the Screen Options dropdown.
+Displays extra columns (Alternative Text, Caption, Description, Permalink and File URL) in the media library view. You can choose to hide or show these new columns using the Screen Options dropdown on the media library page.
+
+There are no settings for this plugin. Simply activate and enjoy!
 
 == Installation ==
 1. Upload the plugin folder to your `/wp-content/plugins/` folder
@@ -19,7 +21,7 @@ Displays extra columns (Alternative Text, Caption, Description, Permalink and Fi
 == Frequently Asked Questions ==
 
 = How do I use this plugin? =
-Simply activate it and enjoy new columns in your media library
+Simply activate it and enjoy new columns in your media library.
 
 == Screenshots ==
 1. New columns in the media library
